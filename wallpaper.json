@@ -1,7 +1,27 @@
 {
   "wallpapers": [
     {
-    "DRIVERSLICENSE1": ""
+    "DLV1": "https://media.discordapp.net/attachments/1055485183387774996/1113829192535122010/DLV1.png?width=996&height=579",
+      "DLV2": "https://media.discordapp.net/attachments/1055485183387774996/1113829192090529842/DLV2.png?width=996&height=579",
+      
+      "DVV1": "https://media.discordapp.net/attachments/1055485183387774996/1113829186507907203/DVV2.png?width=996&height=579",
+      "DVV2": "https://media.discordapp.net/attachments/1055485183387774996/1113829186969292990/DVV1.png?width=996&height=579",
+      
+      "SOV1": "https://media.discordapp.net/attachments/1055485183387774996/1113829185811664926/SOV1.png?width=996&height=579",
+      "SOV2": "https://media.discordapp.net/attachments/1055485183387774996/1113829185425776681/SOV2.png?width=996&height=579"
         }
-      ]
+      ],
+  
+  "text": [
+    {
+    "DLV1": "`Free` **drivers license [Verse 1]** Wallpaper",
+      "DLV2": "`Free` **drivers license [Verse 2]** Wallpaper",
+      
+      "DVV1": "`Free` **deja vu [Verse 1]** Wallpaper",
+      "DVV2": "`Free` **deja vu [Verse 2]** Wallpaper",
+      
+      "SOV1": "`Free` **SOUR [Verse 1]** Wallpaper",
+      "SOV2": "`Free` **SOUR [Verse 2]** Wallpaper"
+        }
+      ],
                              }
